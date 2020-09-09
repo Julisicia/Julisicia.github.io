@@ -6,7 +6,7 @@
 <p>This is my work for IMED-1416-51805</p>
 
 <H1>Unordered List</H1><BR>
-</Head>
+
 <body>
  
   <LI>Hello World Due 9/13</LI>
