@@ -8,7 +8,7 @@
 <H1>Unordered List</H1><BR>
 </Head>
 <body>
-  <H3>Hello World Due 9/13</H3>
-<UL TYPE=>
+ 
+  <LI>Hello World Due 9/13</LI>
   <LI>HTML Basics Due 9/20</LI>
   <LI>TBA Due 9/27</LI>
